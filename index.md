@@ -7,8 +7,8 @@
 仓库地址：[https://github.com/YiZhiXiaoLiuLang/xiaoshuo/tree/master](https://github.com/YiZhiXiaoLiuLang/xiaoshuo/tree/master)
 
 ----------
-
-
+## [海纳小说](hnxs.apk)
+ <a href="hnxs.apk" download>下载</a>
 ## [药娘的天空(全本).txt](药娘的天空(全本).txt) 
  <a href="药娘的天空(全本).txt" download>下载</a>
 ## [A001《阿冷和受气包》作者：车欠绵绵.txt](A001《阿冷和受气包》作者：车欠绵绵.txt) 
